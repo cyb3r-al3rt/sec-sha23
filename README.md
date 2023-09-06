@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Love+to+explore+open+source+technologies❤️;Love+to+code+in+Java)](https://git.io/typing-svg)
 
- <img src="https://komarev.com/ghpvc/?username=sec-sha23label=Profile%20views&color=0e75b6&style=flat" alt="Anju Priya V" />
+ <img src="https://komarev.com/ghpvc/?username=sec-sha23&label=Profile%20views&color=0e75b6&style=flat" alt="Shareef" />
 
 
 - 🎓 B.E Computer Science Graduate
@@ -14,7 +14,7 @@
 - 🌱 I’m Tech Enthuasists...
 - 💞️ Going to be an Enterprenuer...
 - 📫 Reach out me: mishareef@proton.me
-- 🤩 My hobbies - Quotes Writing and Podcast listening.
+- 🤩 My hobbies - Reading Bug Hunting Reviews and Podcast listening.
 
 
 <hr />
